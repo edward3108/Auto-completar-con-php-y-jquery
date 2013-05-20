@@ -1,4 +1,4 @@
-Auto-complrtar-con-php-y-jquery
+Auto-completar-con-php-y-jquery
 ===============================
 
 Este es un pequeño ejercicio de un auto completar con php, mysql y jquery,
